@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Toast.makeText(MainActivity.this, "Entrando al lector de QR", Toast.LENGTH_LONG).show();
+                startActivity(new Intent(MainActivity.this, ActivityQr.class));
             }
         });
     }

@@ -13,24 +13,24 @@
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:background="@drawable/calculator"
-        android:layout_marginTop="150dp"
-        android:layout_marginLeft="50dp"/>
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="20dp"/>
 
     <Button
         android:id="@+id/MainActivity_Button_CurrencyConverter"
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:background="@drawable/currency"
-        android:layout_marginTop="150dp"
-        android:layout_marginLeft="220dp"/>
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="200dp"/>
 
     <Button
         android:id="@+id/MainActivity_Button_QrReader"
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:background="@drawable/qrcode"
-        android:layout_marginTop="400dp"
-        android:layout_marginLeft="150dp"/>
+        android:layout_marginTop="300dp"
+        android:layout_marginLeft="120dp"/>
 
 
 
